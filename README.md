@@ -1,8 +1,8 @@
-# HealthPace
+# MediCore
 
 ## Health, Swift, and Sure
 
-**HealthPace** is an innovative AI-powered healthcare platform designed to enhance medical diagnostic processes, optimize patient care, and enable informed decision-making through decentralized data management and advanced machine learning models.
+**MediCore** is an innovative AI-powered healthcare platform designed to enhance medical diagnostic processes, optimize patient care, and enable informed decision-making through decentralized data management and advanced machine learning models.
 
 ---
 
@@ -52,6 +52,6 @@
 
 ## Vision
 
-**HealthPace** aspires to transform global healthcare by making medical diagnostics faster, more accurate, and widely accessible through cutting-edge AI technology.
+**MediCore** aspires to transform global healthcare by making medical diagnostics faster, more accurate, and widely accessible through cutting-edge AI technology.
 
 ---
